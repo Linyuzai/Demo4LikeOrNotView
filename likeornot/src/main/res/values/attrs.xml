@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LikeOrNotView">
+        <attr name="style_stratified" format="boolean" />
+        <attr name="style_rotatable" format="boolean" />
+        <attr name="drag_scale" format="float" />
+        <attr name="move_multiplier" format="integer" />
+        <attr name="rotation_direction" format="enum">
+            <enum name="clockwise" value="0" />
+            <enum name="anticlockwise" value="1" />
+        </attr>
+        <attr name="rotation_range" format="float" />
+        <attr name="animator_duration" format="integer" />
+    </declare-styleable>
+</resources>
