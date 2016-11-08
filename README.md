@@ -15,7 +15,6 @@
 
 compile 'com.linyuzai:likeornot:1.0.0'
 
-jceter还在审核，应该
 ```
 
 ```
